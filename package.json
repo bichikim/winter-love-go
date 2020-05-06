@@ -1,0 +1,11 @@
+{
+  "name": "winter-love-go",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bichikim/winter-love-go.git",
+  "author": "Bichi Kim <bichi@live.co.kr>",
+  "license": "MIT",
+  "workspaces": [
+    "pacakges/*"
+  ]
+}
